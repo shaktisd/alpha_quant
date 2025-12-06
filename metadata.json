@@ -1,0 +1,5 @@
+{
+  "name": "Alpha Quant Platform",
+  "description": "A high-performance interactive backtesting platform for S&P 500 excess-return prediction, featuring volatility-constrained betting, real-time analytics, and Gemini AI-powered strategy insights.",
+  "requestFramePermissions": []
+}
